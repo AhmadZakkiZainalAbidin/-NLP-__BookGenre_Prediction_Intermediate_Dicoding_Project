@@ -4,3 +4,7 @@ The main aim here is to predict the genre of the book based on the synopsis of t
 
 # About Model
 This model using Natural Language Processing using one embendding layer
+
+Also this notebook concluded how to use stopword, nltk, preprocessing nlp, and wordcloud
+
+
